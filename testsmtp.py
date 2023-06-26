@@ -4,8 +4,8 @@ from email.mime.multipart import MIMEMultipart
 
 
 #USE YOUR GMAIL CREDS--NOT RECOMMENDED FOR PROD/SOC USE
-password = 'agouvjabhqjoxfxh'
-email="arpit.balwani@state.co.us"
+password = 'Somepass@12345'
+email="arpit.balwani@mailin.in"
 
 # smtp_server = "smtp.gmail.com"
 # port = 587  # For starttls
