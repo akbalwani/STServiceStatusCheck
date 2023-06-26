@@ -1,0 +1,154 @@
+2022-09-14 13:24:20.478967 SUCCESS     Get Daemon Status for ssh
+2022-09-14 13:24:20.816324 SUCCESS     Get Daemon Status for ftp
+2022-09-14 13:24:21.062825 SUCCESS     Get Daemon Status for http
+2022-09-14 13:24:21.272948 SUCCESS     Get Daemon Status for pesit
+2022-09-14 13:24:21.469396 SUCCESS     Get Daemon Status for as2
+2022-09-14 13:24:21.781474 SUCCESS     Get Daemon Status for TM
+2022-09-14 13:24:26.886997 SUCCESS     email sent to arpit.balwani@state.co.us because active service count was not less than 4
+2022-09-14 13:28:58.335452 SUCCESS     Get Daemon Status for ssh
+2022-09-14 13:28:58.639128 SUCCESS     Get Daemon Status for ftp
+2022-09-14 13:28:58.913138 SUCCESS     Get Daemon Status for http
+2022-09-14 13:28:59.137600 SUCCESS     Get Daemon Status for pesit
+2022-09-14 13:28:59.332986 SUCCESS     Get Daemon Status for as2
+2022-09-14 13:28:59.694699 SUCCESS     Get Daemon Status for TM
+2022-09-14 13:29:04.919766 SUCCESS     email sent to arpit.balwani@state.co.us because active service count was not less than 4
+2022-09-14 13:33:58.397139 SUCCESS     Get Daemon Status for ssh
+2022-09-14 13:33:58.662013 SUCCESS     Get Daemon Status for ftp
+2022-09-14 13:33:59.001228 SUCCESS     Get Daemon Status for http
+2022-09-14 13:33:59.200485 SUCCESS     Get Daemon Status for pesit
+2022-09-14 13:33:59.434666 SUCCESS     Get Daemon Status for as2
+2022-09-14 13:33:59.727975 SUCCESS     Get Daemon Status for TM
+2022-09-14 13:34:04.780896 SUCCESS     email sent to arpit.balwani@state.co.us because active service count was not less than 4
+2022-09-14 13:45:59.055699 SUCCESS     Get Daemon Status for ssh
+2022-09-14 13:45:59.309610 SUCCESS     Get Daemon Status for ftp
+2022-09-14 13:45:59.608031 SUCCESS     Get Daemon Status for http
+2022-09-14 13:45:59.802310 SUCCESS     Get Daemon Status for pesit
+2022-09-14 13:45:59.975950 SUCCESS     Get Daemon Status for as2
+2022-09-14 13:46:00.297223 SUCCESS     Get Daemon Status for TM
+2022-09-14 13:46:00.300171 INFO Services : ['ssh', 'ftp', 'http', 'tm'] are running
+2022-09-14 13:46:00.312579 SUCCESS     All Services Running Fine , no mails triggered :)
+2022-09-14 13:46:33.293813 SUCCESS     Get Daemon Status for ssh
+2022-09-14 13:46:33.526189 SUCCESS     Get Daemon Status for ftp
+2022-09-14 13:46:33.780540 SUCCESS     Get Daemon Status for http
+2022-09-14 13:46:34.002915 SUCCESS     Get Daemon Status for pesit
+2022-09-14 13:46:34.210288 SUCCESS     Get Daemon Status for as2
+2022-09-14 13:46:34.503761 SUCCESS     Get Daemon Status for TM
+2022-09-14 13:46:34.507754 INFO     Services : ['ssh', 'ftp', 'http', 'tm'] are running
+2022-09-14 13:46:34.527655 SUCCESS     All Services Running Fine , no mails triggered :)
+2022-09-14 20:51:29.252838 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-14 20:51:29.253840 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002AE358C47C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+2022-09-15 10:17:18.578261 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 10:17:18.579289 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000011FF88C47C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+2022-09-15 12:09:03.203648 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 12:09:03.204644 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001BE713807C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"sample instructtion" 
+"date /dsample instructtion" 
+"Thu 09/15/2022- running from wrapper script" 
+2022-09-15 12:24:22.765752 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 12:24:22.765752 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000023478AA47C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Thu 09/15/2022- running from wrapper script" 
+2022-09-15 12:24:50.742211 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 12:24:50.742211 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C4237247C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Thu 09/15/2022_12:26:28.84	running from wrapper script" 
+2022-09-15 12:26:50.253839 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 12:26:50.254832 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029C6B3A47C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Thu 09/15/2022_12:26:53.32	running from wrapper script" 
+2022-09-15 12:27:14.527909 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 12:27:14.527909 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029F62E047C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+2022-09-15 12:27:38.170980 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 12:27:38.170980 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000177E65247C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Thu 09/15/2022_13:00:57.22	running from wrapper script" 
+2022-09-15 13:01:18.421039 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 13:01:18.422035 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F616F547C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Thu 09/15/2022_14:00:57.79	running from wrapper script" 
+2022-09-15 14:01:19.078688 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 14:01:19.078688 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D2CA3847C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Thu 09/15/2022_15:00:57.90	running from wrapper script" 
+2022-09-15 15:01:19.279953 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 15:01:19.280945 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001DBA24447C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Thu 09/15/2022_20:00:57.93	running from wrapper script" 
+2022-09-15 20:01:20.901413 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-15 20:01:20.901413 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C7B1F047C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Fri 09/16/2022_ 8:00:57.94	running from wrapper script" 
+2022-09-16 08:01:19.718966 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-16 08:01:19.718966 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000021832B247C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Fri 09/16/2022_ 9:00:57.82	running from wrapper script" 
+2022-09-16 09:01:19.494498 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-16 09:01:19.494498 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015BC5CD47C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Fri 09/16/2022_ 9:26:35.60	running from wrapper script" 
+"Fri 09/16/2022_10:00:01.68	running from wrapper script" 
+"Fri 09/16/2022_11:00:01.68	running from wrapper script" 
+"Fri 09/16/2022_11:20:20.03	running from wrapper script" 
+2022-09-16 11:21:14.272810 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-16 11:21:14.273807 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E9750D47C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Fri 09/16/2022_11:22:37.78	running from wrapper script" 
+"Fri 09/16/2022_11:23:07.72	running from wrapper script" 
+2022-09-16 11:23:28.949992 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-16 11:23:28.949992 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000014F54F447C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Fri 09/16/2022_12:48:28.50	running from wrapper script" 
+2022-09-16 12:48:49.875140 FATAL I cannot connect to https://10.17.43.102:444/api/v2.0/servers?protocol=ssh&isActive=true
+2022-09-16 12:48:49.876108 FATAL HTTPSConnectionPool(host='10.17.43.102', port=444): Max retries exceeded with url: /api/v2.0/servers?protocol=ssh&isActive=true (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000223CDC847C0>, 'Connection to 10.17.43.102 timed out. (connect timeout=120)'))
+"Fri 09/16/2022_13:08:49.68	running from wrapper script" 
+"Fri 09/16/2022_13:09:33.20	running from wrapper script" 
+"Fri 09/16/2022_13:10:05.53	running from wrapper script" 
+2022-09-16 13:10:34.627948 SUCCESS     Get Daemon Status for ssh
+2022-09-16 13:10:34.902844 SUCCESS     Get Daemon Status for ftp
+2022-09-16 13:10:35.160255 SUCCESS     Get Daemon Status for http
+2022-09-16 13:10:35.502551 SUCCESS     Get Daemon Status for pesit
+2022-09-16 13:10:35.702671 SUCCESS     Get Daemon Status for as2
+2022-09-16 13:10:36.048394 SUCCESS     Get Daemon Status for TM
+2022-09-16 13:10:36.050389 INFO     Services : ['ssh', 'ftp', 'http', 'tm'] are running
+2022-09-16 13:10:36.091066 SUCCESS     All Services Running Fine , no mails triggered :)
+"Fri 09/16/2022_13:10:43.79	running from wrapper script" 
+2022-09-16 13:10:44.506024 SUCCESS     Get Daemon Status for ssh
+2022-09-16 13:10:44.729351 SUCCESS     Get Daemon Status for ftp
+2022-09-16 13:10:44.947501 SUCCESS     Get Daemon Status for http
+2022-09-16 13:10:45.136326 SUCCESS     Get Daemon Status for pesit
+2022-09-16 13:10:45.317813 SUCCESS     Get Daemon Status for as2
+2022-09-16 13:10:45.582710 SUCCESS     Get Daemon Status for TM
+2022-09-16 13:10:45.584703 INFO     Services : ['ssh', 'ftp', 'http', 'tm'] are running
+2022-09-16 13:10:45.627626 SUCCESS     All Services Running Fine , no mails triggered :)
+"Fri 09/16/2022_13:12:08.72	running from wrapper script" 
+"Fri 09/16/2022_13:13:37.86	running from wrapper script" 
+"Fri 09/16/2022_13:15:35.58	running from wrapper script" 
+"Fri 09/16/2022_13:16:46.08	running from wrapper script" 
+"Fri 09/16/2022_13:16:56.30	running from wrapper script" 
+"Fri 09/16/2022_13:17:54.47	running from wrapper script" 
+"Fri 09/16/2022_13:18:18.13	running from wrapper script" 
+2022-09-16 13:19:29.105975 SUCCESS     Get Daemon Status for ssh
+2022-09-16 13:19:29.347676 SUCCESS     Get Daemon Status for ftp
+2022-09-16 13:19:29.578595 SUCCESS     Get Daemon Status for http
+2022-09-16 13:19:29.751134 SUCCESS     Get Daemon Status for pesit
+2022-09-16 13:19:29.958600 SUCCESS     Get Daemon Status for as2
+2022-09-16 13:19:30.239624 SUCCESS     Get Daemon Status for TM
+2022-09-16 13:19:30.240594 INFO     Services : ['ssh', 'ftp', 'http', 'tm'] are running
+2022-09-16 13:19:30.282228 SUCCESS     All Services Running Fine , no mails triggered :)
+2022-09-16 13:19:58.238521 SUCCESS     Get Daemon Status for ssh
+2022-09-16 13:19:58.442959 SUCCESS     Get Daemon Status for ftp
+2022-09-16 13:19:58.665499 SUCCESS     Get Daemon Status for http
+2022-09-16 13:19:58.878691 SUCCESS     Get Daemon Status for pesit
+2022-09-16 13:19:59.057109 SUCCESS     Get Daemon Status for as2
+2022-09-16 13:19:59.365258 SUCCESS     Get Daemon Status for TM
+2022-09-16 13:19:59.369247 INFO     Services : ['ssh', 'ftp', 'http', 'tm'] are running
+2022-09-16 13:19:59.411887 SUCCESS     All Services Running Fine , no mails triggered :)
+"Fri 09/16/2022_13:20:12.32	running from wrapper script" 
+"Fri 09/16/2022_13:20:31.86	running from wrapper script" 
+2022-09-16 13:20:32.584771 SUCCESS     Get Daemon Status for ssh
+2022-09-16 13:20:32.812000 SUCCESS     Get Daemon Status for ftp
+2022-09-16 13:20:33.051974 SUCCESS     Get Daemon Status for http
+2022-09-16 13:20:33.273189 SUCCESS     Get Daemon Status for pesit
+2022-09-16 13:20:33.510679 SUCCESS     Get Daemon Status for as2
+2022-09-16 13:20:33.791615 SUCCESS     Get Daemon Status for TM
+2022-09-16 13:20:33.794607 INFO     Services : ['ssh', 'ftp', 'http', 'tm'] are running
+2022-09-16 13:20:33.837270 SUCCESS     All Services Running Fine , no mails triggered :)
+"Fri 09/16/2022_13:20:52.36	running from wrapper script" 
+"Fri 09/16/2022_13:22:20.64	running from wrapper script" 
+2022-09-16 13:26:22.406317 SUCCESS     Get Daemon Status for ssh
+2022-09-16 13:26:22.638060 SUCCESS     Get Daemon Status for ftp
+2022-09-16 13:26:22.874441 SUCCESS     Get Daemon Status for http
+2022-09-16 13:26:23.051343 SUCCESS     Get Daemon Status for pesit
+2022-09-16 13:26:23.234853 SUCCESS     Get Daemon Status for as2
+2022-09-16 13:26:23.527288 SUCCESS     Get Daemon Status for TM
+2022-09-16 13:26:23.529281 INFO     Services : ['ssh', 'ftp', 'http', 'tm'] are running
+2022-09-16 13:26:23.572050 SUCCESS     All Services Running Fine , no mails triggered :)
+"Fri 09/16/2022_13:27:24.49	running from wrapper script" 
